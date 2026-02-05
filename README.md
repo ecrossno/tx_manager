@@ -4,6 +4,10 @@ A multithreaded dcc agnostic tool that lets users batch create .tx files from ex
 
 ![](img/ScreenShot1.PNG)
 
+
+https://github.com/user-attachments/assets/b67a2106-2dd3-4358-9729-c663f611d11d
+
+
 ## Features
 
 - **Batch Processing** — Convert multiple textures to `.tx` files in one operation using `maketx`
